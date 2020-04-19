@@ -1,0 +1,76 @@
+INFO:root:Program started
+INFO:root:Start crawl url https://anytask.org/
+INFO:root:Start make dir
+INFO:root:Trying make dir
+INFO:root:OS Error
+INFO:root:Make dir done
+INFO:root:[Errno 2] No such file or directory: 'C:\\Users\\daria\\PycharmProjects\\crawler\\result\\anytask\\.html'
+INFO:root:Program started
+INFO:root:Start crawl url https://anytask.org/
+INFO:root:Start make dir
+INFO:root:Trying make dir
+INFO:root:Making dir
+INFO:root:Make dir done
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start clear
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start clear
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start crawl url https://anytask.org/
+INFO:root:Start make dir
+INFO:root:Trying make dir
+INFO:root:Making dir
+INFO:root:Make dir done
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start clear
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start crawl url https://anytask.org/
+INFO:root:Start make dir
+INFO:root:Trying make dir
+INFO:root:Making dir
+INFO:root:Make dir done
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start clear
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start crawl url https://anytask.org/
+INFO:root:Start make dir
+INFO:root:Trying make dir
+INFO:root:Making dir
+INFO:root:Make dir done
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start crawl url https://anytask.org/
+INFO:root:Start make dir
+INFO:root:Trying make dir
+INFO:root:Making dir
+INFO:root:Make dir done
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start clear
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start clear
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start clear
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start crawl url https://anytask.org/
+INFO:root:Start make dir
+INFO:root:Trying make dir
+INFO:root:Making dir
+INFO:root:Make dir done
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start clear
+INFO:root:Done!
+INFO:root:Program started
+INFO:root:Start clear
+INFO:root:Done!
